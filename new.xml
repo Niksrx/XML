@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+	<name>Nikita</name>
+	<surname>Andrianov</surname>
+	<pets>
+		<number of pets>2</number of pets>
+	</pets>
+	<desired salary>
+		<salary>500$</salary>
+	</desired salary>
+	</person>
